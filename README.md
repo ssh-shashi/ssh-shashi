@@ -9,8 +9,8 @@ For any feature request, please ping me at &nbsp; [![Contact Badge](https://img.
 
 ### Want To Contact Me? 📱
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ankit_Bavadiya-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashi-bhushan-81819683/)](https://www.linkedin.com/in/shashi-bhushan-81819683/)
-[![Twitter Badge](https://img.shields.io/badge/-BavadiyaAnkit-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/ShashiB58782400)](https://twitter.com/ShashiB58782400)
+[![Linkedin Badge](https://img.shields.io/badge/-Shashi_Bhushan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashi-bhushan-81819683/)](https://www.linkedin.com/in/shashi-bhushan-81819683/)
+[![Twitter Badge](https://img.shields.io/badge/-Shashi_Bhushan-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/ShashiB58782400)](https://twitter.com/ShashiB58782400)
 [![Gmail Badge](https://img.shields.io/badge/shashi12533@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:shashi12533@gmail.com)](mailto:shashi12533@gmail.com)
 
 
